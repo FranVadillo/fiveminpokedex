@@ -39,7 +39,7 @@ pokedex=[
             "id": 7,
             "name": "Squirtle",
             "description": "",
-            "model": ""
+            "model": "https://sketchfab.com/models/ce34f5c9f3404c1bb29241b72d9cf9ad/embed"
         },
         {
             "id": 8,
@@ -416,6 +416,66 @@ pokedex=[
         {
             "id": 70,
             "name": "Weepinbell",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 71,
+            "name": "Victreebel",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 72,
+            "name": "Tentacool",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 73,
+            "name": "Tentacruel",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 74,
+            "name": "Geodude",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 75,
+            "name": "Graveler",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 76,
+            "name": "Golem",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 77,
+            "name": "Ponyta",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 78,
+            "name": "Rapidash",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 79,
+            "name": "Slowpoke",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 80,
+            "name": "Slowbro",
             "description": "",
             "model": ""
         },
