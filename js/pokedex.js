@@ -867,7 +867,7 @@ pokedex=[
             "id": 145,
             "name": "Zapdos",
             "description": "",
-            "model": ""
+            "model": "https://sketchfab.com/models/c63581aa45704f21bb0863e293920c85/embed"
         },
         {
             "id": 146,
