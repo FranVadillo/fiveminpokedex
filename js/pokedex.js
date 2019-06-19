@@ -479,4 +479,196 @@ pokedex=[
             "description": "",
             "model": ""
         },
+        {
+            "id": 81,
+            "name": "Magnemite",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 82,
+            "name": "Magneton",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 83,
+            "name": "Farfetch'd",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 84,
+            "name": "Doduo",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 85,
+            "name": "Dodrio",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 86,
+            "name": "Seel",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 87,
+            "name": "Dewgong",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 88,
+            "name": "Grimer",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 89,
+            "name": "Muk",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 90,
+            "name": "Shellder",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 91,
+            "name": "Cloyster",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 92,
+            "name": "Gastly",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 93,
+            "name": "Haunter",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 94,
+            "name": "Gengar",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 95,
+            "name": "Onix",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 96,
+            "name": "Drowzee",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 97,
+            "name": "Hypno",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 98,
+            "name": "Krabby",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 99,
+            "name": "Kingler",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 100,
+            "name": "Voltorb",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 101,
+            "name": "Electrode",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 102,
+            "name": "Exeggcute",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 103,
+            "name": "Exeggutor",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 104,
+            "name": "Cubone",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 105,
+            "name": "Marowak",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 106,
+            "name": "Hitmonlee",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 107,
+            "name": "Hitmonchan",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 108,
+            "name": "Lickitung",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 109,
+            "name": "Koffing",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 110,
+            "name": "Weezing",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 111,
+            "name": "Rhyhorn",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 112,
+            "name": "Rhydon",
+            "description": "",
+            "model": ""
+        },
     ];
