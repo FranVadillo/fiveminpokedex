@@ -146,7 +146,7 @@ pokedex=[
         {
             "id": 25,
             "name": "Pikachu",
-            "description": "",
+            "description": "Sus mejillas electrocutan si las tocas.",
             "model": ""
         },
         {
@@ -218,7 +218,7 @@ pokedex=[
         {
             "id": 37,
             "name": "Vulpix",
-            "description": "",
+            "description": "Nace con una cola solo.",
             "model": ""
         },
         {
@@ -320,7 +320,7 @@ pokedex=[
         {
             "id": 54,
             "name": "Psyduck",
-            "description": "",
+            "description": "Siempre le duele la cabeza por sus poderes mentales.",
             "model": ""
         },
         {
