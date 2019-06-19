@@ -671,4 +671,238 @@ pokedex=[
             "description": "",
             "model": ""
         },
+        {
+            "id": 113,
+            "name": "Chansey",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 114,
+            "name": "Tangela",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 115,
+            "name": "Kangaskhan",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 116,
+            "name": "Horsea",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 117,
+            "name": "Seadra",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 118,
+            "name": "Goldeen",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 119,
+            "name": "Seaking",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 120,
+            "name": "Staryu",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 121,
+            "name": "Starmie",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 122,
+            "name": "Mr.Mime",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 123,
+            "name": "Scyther",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 124,
+            "name": "Jynx",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 125,
+            "name": "Electabuzz",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 126,
+            "name": "Magmar",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 127,
+            "name": "Pinsir",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 128,
+            "name": "Tauros",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 129,
+            "name": "Magikarp",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 130,
+            "name": "Gyarados",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 131,
+            "name": "Lapras",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 132,
+            "name": "Ditto",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 133,
+            "name": "Eevee",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 134,
+            "name": "Vaporeon",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 135,
+            "name": "Jolteon",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 136,
+            "name": "Flareon",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 137,
+            "name": "Porygon",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 138,
+            "name": "Omanyte",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 139,
+            "name": "Omastar",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 140,
+            "name": "Kabuto",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 141,
+            "name": "Kabutops",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 142,
+            "name": "Aerodactyl",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 143,
+            "name": "Snorlax",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 144,
+            "name": "Articuno",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 145,
+            "name": "Zapdos",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 146,
+            "name": "Moltres",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 147,
+            "name": "Dratini",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 148,
+            "name": "Dragonair",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 149,
+            "name": "Dragonite",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 150,
+            "name": "Mewtwo",
+            "description": "",
+            "model": ""
+        },
+        {
+            "id": 151,
+            "name": "Mew",
+            "description": "",
+            "model": ""
+        },
     ];
