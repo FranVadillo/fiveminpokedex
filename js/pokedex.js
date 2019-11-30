@@ -393,7 +393,7 @@ pokedex=[
             "id": 66,
             "name": "Machop",
             "description": "",
-            "model": ""
+            "model": "https://skfb.ly/6OYy7"
         },
         {
             "id": 67,
