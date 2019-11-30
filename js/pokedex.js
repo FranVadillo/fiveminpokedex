@@ -2,43 +2,43 @@ pokedex=[
         {
             "id": 1,
             "name": "Bulbasaur",
-            "description": "Es una planta",
+            "description": "Es verde y hace la fotosíntesis",
             "model": "https://sketchfab.com/models/d0df135bc3c148ce9795199bc2434c1a/embed"
         },
         {
             "id": 2,
             "name": "Ivysaur",
-            "description": "Es una planta",
+            "description": "",
             "model": ""
         },
         {
             "id": 3,
             "name": "Venosaur",
-            "description": "Es una planta",
+            "description": "",
             "model": ""
         },
         {
             "id": 4,
             "name": "Charmander",
-            "description": "Es un dragón",
+            "description": "Si se le apaga la llama se muere",
             "model": "https://sketchfab.com/models/1c37311d12d94b93b5d2da783b2d5458/embed"
         },
         {
             "id": 5,
             "name": "Charmeleon",
-            "description": "Es un dragón",
+            "description": "",
             "model": ""
         },
         {
             "id": 6,
             "name": "Charizard",
-            "description": "Es un dragón",
+            "description": "",
             "model": ""
         },
         {
             "id": 7,
             "name": "Squirtle",
-            "description": "",
+            "description": "Trabaja para la pasma",
             "model": "https://sketchfab.com/models/ce34f5c9f3404c1bb29241b72d9cf9ad/embed"
         },
         {
