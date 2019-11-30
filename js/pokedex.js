@@ -393,7 +393,7 @@ pokedex=[
             "id": 66,
             "name": "Machop",
             "description": "Está mazas",
-            "model": "https://skfb.ly/6OYy7"
+            "model": "https://sketchfab.com/models/99d626e0967d418096b6b5546f144e01/embed"
         },
         {
             "id": 67,
